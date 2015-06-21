@@ -35,6 +35,6 @@ Você deve criar um roteiro chamado R run_analysis.R que faz o seguinte.
 * Coloque run_analysis.R na pasta pai da UCI HAR Dataset, em seguida, defina-o como seu diretório de trabalho usando a função setwd () in rstudio.
 * Executte o arquivo ("run_analysis.R"), que gerará um arquivo chamado tiny_data.txt no seu diretório de trabalho.
 
-Dependências ###
+### Dependências
 
 A execução do arquivo run_analysis.R instalará as dependências automaticamente, que são: reshape2 e data.table.
