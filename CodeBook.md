@@ -52,7 +52,7 @@ There are 5 parts:
 * Merge data set.
 * Saves the output file tidy_data.txt.
 
-### Resumo (Versão em português)
+## CodeBook (Versão em português)
 Este é um livro de código que descreve as variáveis, os dados, e quaisquer transformações ou de trabalho que você executou para limpar os dados.
 
 ### A fonte de dados
